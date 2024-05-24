@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: mycli_project
+Version: 0.1.0
+Requires-Dist: psutil
+Requires-Dist: tqdm
+Requires-Dist: requests

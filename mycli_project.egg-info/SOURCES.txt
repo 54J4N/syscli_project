@@ -1,0 +1,8 @@
+README.md
+setup.py
+mycli_project.egg-info/PKG-INFO
+mycli_project.egg-info/SOURCES.txt
+mycli_project.egg-info/dependency_links.txt
+mycli_project.egg-info/entry_points.txt
+mycli_project.egg-info/requires.txt
+mycli_project.egg-info/top_level.txt
