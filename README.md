@@ -1,5 +1,7 @@
 # SysCLI Project
 
+![SysCLI Screenshot](images/screenshot.png)
+
 SysCLI is a command-line tool for displaying system information and managing system processes. It provides various functionalities such as checking system information, managing processes, running security checks, performing web searches, and more.
 
 ## Installation
