@@ -22,8 +22,8 @@ class MiniCLI(Cmd):
     RESET = '\033[0m'
 
     # API keys and search engine ID for Google Custom Search
-    api_key = 'AIzaSyBYHe1fRbE6x-SfJf_vjrKF6aAVs9Gtjuk'
-    cse_id = 'd603aac6adef24e99'
+    api_key = 'google_API_KEY'
+    cse_id = 'GOOGLE_CSE_ID'
 
     def preloop(self):
         self.show_welcome_animation()
